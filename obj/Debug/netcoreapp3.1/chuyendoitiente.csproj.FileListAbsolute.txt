@@ -1,0 +1,13 @@
+C:\LN\chuyendoitiente\bin\Debug\netcoreapp3.1\chuyendoitiente.exe
+C:\LN\chuyendoitiente\bin\Debug\netcoreapp3.1\chuyendoitiente.deps.json
+C:\LN\chuyendoitiente\bin\Debug\netcoreapp3.1\chuyendoitiente.runtimeconfig.json
+C:\LN\chuyendoitiente\bin\Debug\netcoreapp3.1\chuyendoitiente.runtimeconfig.dev.json
+C:\LN\chuyendoitiente\bin\Debug\netcoreapp3.1\chuyendoitiente.dll
+C:\LN\chuyendoitiente\bin\Debug\netcoreapp3.1\chuyendoitiente.pdb
+C:\LN\chuyendoitiente\obj\Debug\netcoreapp3.1\chuyendoitiente.csprojAssemblyReference.cache
+C:\LN\chuyendoitiente\obj\Debug\netcoreapp3.1\chuyendoitiente.AssemblyInfoInputs.cache
+C:\LN\chuyendoitiente\obj\Debug\netcoreapp3.1\chuyendoitiente.AssemblyInfo.cs
+C:\LN\chuyendoitiente\obj\Debug\netcoreapp3.1\chuyendoitiente.csproj.CoreCompileInputs.cache
+C:\LN\chuyendoitiente\obj\Debug\netcoreapp3.1\chuyendoitiente.dll
+C:\LN\chuyendoitiente\obj\Debug\netcoreapp3.1\chuyendoitiente.pdb
+C:\LN\chuyendoitiente\obj\Debug\netcoreapp3.1\chuyendoitiente.genruntimeconfig.cache
